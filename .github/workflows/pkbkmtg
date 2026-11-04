@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Dashboard Pusat Kawalan Bencana BBP Kamunting"
+git branch -M main
+git remote add origin https://github.com/NAMA-ANDA/bencana-kamunting.git
+git push -u origin main
